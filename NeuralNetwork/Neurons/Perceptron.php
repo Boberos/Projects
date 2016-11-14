@@ -1,4 +1,5 @@
 <?php
+/**
 include_once 'Util.php';
 
 class Perceptron{
@@ -68,8 +69,7 @@ class Perceptron{
 		
 		
 		
-		
-		
+	
 		
 		
 		
@@ -194,3 +194,7 @@ class Perceptron{
 		echo 'test';
 	}
 }
+
+
+**/	
+	
